@@ -1,5 +1,3 @@
-# AzkaRijal
-Baru Belajar 
 #include <iostream>
 
 using namespace std;
